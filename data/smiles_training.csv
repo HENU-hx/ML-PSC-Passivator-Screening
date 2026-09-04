@@ -1,0 +1,205 @@
+﻿name,SMILES
+cetyltrimethylammonium chloride,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-]
+1H-Pyrazole-1-carboximidamide hydrochloride,C1=CN(N=C1)C(=N)N.Cl
+4-sulfamoylbenzoic acid,C1=CC(=CC=C1C(=O)O)S(=O)(=O)N
+(3-bromopropyl)trimethoxysilane,CO[Si](CCCBr)(OC)OC
+"2,2,6,6-tetramethyl-1-piperidinyloxy",CC1(CCCC(N1[O])(C)C)C
+1‐hexyl‐3‐methylimidazolium iodide,CCCCCCN1C=C[N+](=C1)C.[I-]
+methacrylic acid,CC(=C)C(=O)O
+d-tryptophan,C1=CC=C2C(=C1)C(=CN2)C[C@H](C(=O)O)N
+4-hydroxypicolinic acid,C1=CNC(=CC1=O)C(=O)O
+diphenyl carbonate,C1=CC=C(C=C1)OC(=O)OC2=CC=CC=C2
+3-(2-amino-2-oxoethyl)-1-methyl-1H-imidazol-3-ium chloride,C[N+]1=CN(C=C1)CC(=O)N.[Cl-]
+N-methyl pyrrolidone,CN1CCCC1=O
+prolinamide,C1C[C@H](NC1)C(=O)N
+Naphthylmethylammonium Iodide,CNC1=CC=CC2=CC=CC=C21.I
+2-(furan-3-yl)ethanamine hydrochloride,C1=COC=C1CCN.Cl
+"2,6-pyridine dicarboxylate",C1=CC(=NC(=C1)C(=O)[O-])C(=O)[O-]
+n-Butylammonium iodide,CCCCN.I
+Cyclohexylmethylammonium iodide,C1CCC(CC1)C[NH3+].[I-]
+Ethylammonium iodide,CCN.I
+Guanidinium iodide,C(=N)(N)N.I
+4-Fluoro-phenethylammonium iodide,C1=CC(=CC=C1CCN)F.I
+2-Fluoro-phenethylammonium iodide,C1=CC=C(C(=C1)CC[NH3+])F.[I-]
+Benzylammonium iodide,C1=CC=C(C=C1)CN.I
+Octylammonium iodide,CCCCCCCC[NH3+].[I-]
+selenophene,C1=C[Se]C=C1
+"(E,E)-1-[5-(1,3-benzodioxol-5-yl)-1-oxo-2,4-pentadienyl]-piperidine",C1CCN(CC1)C(=O)C=CC=CC2=CC3=C(C=C2)OCO3
+guanidine sulfate,C(=N)(N)N.C(=N)(N)N.OS(=O)(=O)O
+"2,2,6,6-tetramethyl-1-piperidinyloxy",CC1(CCCC(N1[O])(C)C)C
+ethylammonium,CCN.[N+](=O)(O)[O-]
+imidazolium,C1=C[NH+]=CN1
+guanidinium iodide,C(=N)(N)N.I
+acrylamide monomer,C=CC(=O)N
+tetraoctylammonium chloride,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Cl-]
+"naphthalene-1,8-dicarboximide",C1=CC2=C3C(=C1)C(=O)NC(=O)C3=CC=C2
+"perylene-3,4-dicarboximide",C1=CC2=C3C(=C1)C4=C5C(=CC=C6C5=C(C=C4)C(=O)NC6=O)C3=CC=C2
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+Theobromine,CN1C=NC2=C1C(=O)NC(=O)N2C
+2-aminoethylphosphonic acid,C(CP(=O)(O)O)N
+hypotaurine,C(CS(=O)O)N
+β-alanine(beta-alanine),C(CN)C(=O)O
+2-hydroxy-4-methoxybenzophenone,COC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O
+Indigo dye ,C1=CC=C2C(=C1)C(=C(N2)C3=NC4=CC=CC=C4C3=O)O
+[2-(9H-carbazol-9-yl)ethyl]phosphonic acid,C1=CC=C2C(=C1)C3=CC=CC=C3N2CCP(=O)(O)O
+octylphosphonic acid,CCCCCCCCP(=O)(O)O
+2-fluoroethylamine,C(CF)N
+"2,2-difluoroethylamine",C(C(F)F)N
+"2, 2, 2-trifluoroethylamine",C(C(F)(F)F)N.Cl
+11-Maleimidoundecanoic acid,C1=CC(=O)N(C1=O)CCCCCCCCCCC(=O)O
+pentafluorophenyl acrylate,C=CC(=O)OC1=C(C(=C(C(=C1F)F)F)F)F
+(pentaerythritol tetrakis (3-mercaptopropionate),C(CS)C(=O)OCC(COC(=O)CCS)(COC(=O)CCS)COC(=O)CCS
+3-hexylthiophene,CCCCCCC1=CSC=C1
+adamantane,C1C2CC3CC1CC(C2)C3
+1-adamantylamine,C1C2CC3CC1CC(C2)(C3)N
+trimethylolpropane triacrylate,CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C
+2-adamantanone,C1C2CC3CC1CC(C2)C3=O
+1-adamantane carboxylic acid,C1C2CC3CC1CC(C2)(C3)C(=O)O
+1-adamantaneacetic acid,C1C2CC3CC1CC(C2)(C3)CC(=O)O
+"2,2-difluoropropanediamide",C(=O)(C(C(=O)N)(F)F)N
+triphenylphosphine oxide,C1=CC=C(C=C1)P(=O)(C2=CC=CC=C2)C3=CC=CC=C3
+tetraisopropyl methylenediphosphonate,CC(C)OP(=O)(CP(=O)(OC(C)C)OC(C)C)OC(C)C
+tris(pentafluorophenyl) phosphine,C1(=C(C(=C(C(=C1F)F)P(C2=C(C(=C(C(=C2F)F)F)F)F)C3=C(C(=C(C(=C3F)F)F)F)F)F)F)F
+"1,2,4‐triazole",C1=NC=NN1
+N-(4-bromophenyl)thiourea,C1=CC(=CC=C1NC(=S)N)Br
+morpholine,C1COCCN1
+"3,5-morpholone(Morpholine-3,5-dione)",C1C(=O)NC(=O)CO1
+3-morpholone,C1COCC(=O)N1
+2-methylbenzimidazole,CC1=NC2=CC=CC=C2N1
+4-aminopyridine,C1=CN=CC=C1N
+Lansoprazole,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F
+"1,8-Naphthyridine",C1=CC2=C(N=C1)N=CC=C2
+hypoxanthine,C1=NC2=C(N1)C(=O)NC=N2
+"3,5-Difluorophenylboronic acid",B(C1=CC(=CC(=C1)F)F)(O)O
+adenine,C1=NC2=NC=NC(=C2N1)N
+cytosine,C1=C(NC(=O)N=C1)N
+thiourea ,C(=S)(N)N
+thioacetamide ,CC(=S)N
+dimethyl sulfide ,CSC
+Malonamide,C(C(=O)N)C(=O)N
+3-Thiopheneboronic acid,B(C1=CSC=C1)(O)O
+formamid,C(=O)N
+d benzylamine,C1=CC=C(C=C1)CN
+benzamide ,C1=CC=C(C=C1)C(=O)N
+4-fluorobenzamide,C1=CC(=CC=C1C(=O)N)F
+4-chlorobenzamide,C1=CC(=CC=C1C(=O)N)Cl
+"3,4-Bis(4-bromophenyl)cyclobut-3-ene-1,2-dione",C1=CC(=CC=C1C2=C(C(=O)C2=O)C3=CC=C(C=C3)Br)Br
+"2,7-dioctyl[1]benzothieno[3,2-b][1]benzothiophene",CCCCCCCCC1=CC2=C(C=C1)C3=C(S2)C4=C(S3)C=C(C=C4)CCCCCCCC
+"4,4′-carbonyldiphthalic anhydride",C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O
+"4,4′(Hexafluoroisopropylidene)diphthalic anhydride",C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O
+barbituric acid,C1C(=O)NC(=O)NC1=O
+propanedioic acid,C(C(=O)O)C(=O)O
+urea,C(=O)(N)N
+phenylethylammonium iodidePEAI,C1=CC=C(C=C1)CC[NH3+].[I-]
+phenylbutylammonium iodidePBAI,C1=CC=C(C=C1)CCCC[NH3+].[I-]
+Phenylpropylammonium IodidePPAI,C1=CC=C(C=C1)CCCN.I
+"1,3-dihydroxypropan-2-one",C(C(=O)CO)O
+tetramethylammonium chloride,C[N+](C)(C)C.[Cl-]
+chlorocholine chloride,C[N+](C)(C)CCCl.[Cl-]
+choline chloride,C[N+](C)(C)CCO.[Cl-]
+benzyltrimethylammonium chloride,C[N+](C)(C)CC1=CC=CC=C1.[Cl-]
+N-hydroxysuccinimide,C1CC(=O)N(C1=O)O
+5-chloroindole,C1=CC2=C(C=CN2)C=C1Cl
+D-penicillamine,CC(C)([C@H](C(=O)O)N)S
+N-tert-butyl-2-benzothiazolesulfenamide,CC(C)(C)NSC1=NC2=CC=CC=C2S1
+18-Crown-6,C1COCCOCCOCCOCCOCCO1
+Dibenzo-18-Crown-6,C1COC2=CC=CC=C2OCCOCCOC3=CC=CC=C3OCCO1
+trifluoroacetamide,C(=O)(C(F)(F)F)N
+"2,2-Bis(3-amino-4-hydroxyphenyl)hexafluoropropane",C1=CC(=C(C=C1C(C2=CC(=C(C=C2)O)N)(C(F)(F)F)C(F)(F)F)N)O
+4-aminomethyltetrahydropyran,C1COCCC1CN
+1-chlorobutane,CCCCCl
+amino trimethylene phosphonic acid,C(N(CP(=O)(O)O)CP(=O)(O)O)P(=O)(O)O
+fumaric acid,C(=C/C(=O)O)\\C(=O)O
+sodium p-toluenesulfonate,CC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+]
+4′-heptyl-4-biphenylcarbonitrile,CCCCCCCC1=CC=C(C=C1)C2=CC=C(C=C2)C#N
+tris(pentafluorophenyl)boron,B(C1=C(C(=C(C(=C1F)F)F)F)F)(C2=C(C(=C(C(=C2F)F)F)F)F)C3=C(C(=C(C(=C3F)F)F)F)F
+glutaric acid,C(CC(=O)O)CC(=O)O
+cyanuric fluoride,C1(=NC(=NC(=N1)F)F)F
+melamine,C1(=NC(=NC(=N1)N)N)N
+cyanuric acid,C1(=O)NC(=O)NC(=O)N1
+cyanuric chloride,C1(=NC(=NC(=N1)Cl)Cl)Cl
+thiocyanuric acid,C1(=S)NC(=S)NC(=S)N1
+hydrogen octylphosphonate potassium,CCCCCCCCP(=O)(O)[O-].[K+]
+"3,5-bis(trifluoromethyl)benzoic acid",C1=C(C=C(C=C1C(F)(F)F)C(F)(F)F)C(=O)O
+4-(aminomethyl) benzonitrile,C1=CC(=CC=C1CN)C#N
+benzylammonium iodide,C1=CC=C(C=C1)CN.I
+4-chlorobenzylammonium iodide,C1=CC(=CC=C1C[NH3+])Cl.[I-]
+phenethylammonium iodide,C1=CC=C(C=C1)CCN.I
+methyl 3-sulfamoylthiophene-2-carboxylate,COC(=O)C1=C(C=CS1)S(=O)(=O)N
+2-mercaptobenzimidazole,C1=CC=C2C(=C1)NC(=S)N2
+histidine,C1=C(NC=N1)C[C@@H](C(=O)O)N
+d-tryptophan,C1=CC=C2C(=C1)C(=CN2)C[C@H](C(=O)O)N
+tetrafluorophthalonitrile,C(#N)C1=C(C(=C(C(=C1F)F)F)F)C#N
+tris(pentafluorophenyl)borane,B(C1=C(C(=C(C(=C1F)F)F)F)F)(C2=C(C(=C(C(=C2F)F)F)F)F)C3=C(C(=C(C(=C3F)F)F)F)F
+2-thiophenecarboxamide,C1=CSC(=C1)C(=O)N
+phenylacetonitrile,C1=CC=C(C=C1)CC#N
+2-naphthylacetonitrile,C1=CC=C2C=C(C=CC2=C1)CC#N
+4-aminobenzonitrile,C1=CC(=CC=C1C#N)N
+"1,8-octanedithiol-doped",C(CCCCS)CCCS
+triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3
+"2,3,4,5,6-pentafluorobenzyl phosphonic acid",CC(C(C)(C)C)OP(=O)(C)OCC1=C(C(=C(C(=C1F)F)F)F)F
+1-methylimidazole,CN1C=CN=C1
+1-methylbenzimidazole,CN1C=NC2=CC=CC=C21
+2-(2-hydroxy-5-methylphenyl)benzotriazole,CC1=CC(=C(C=C1)O)N2N=C3C=CC=CC3=N2
+4-trifluoromethyl-benzamidine hydrochloride,C1=CC(=CC=C1C(=N)N)C(F)(F)F.Cl
+benzotrifluoride,C1=CC=C(C=C1)C(F)(F)F
+benzamidine hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl
+"2,5-thiophene dicarboxylic acid ",C1=C(SC(=C1)C(=O)O)C(=O)O
+N-methyl-N-(thien-2-ylmethyl)amine,CNCC1=CC=CS1
+"1,3-diphenylurea",C1=CC=C(C=C1)NC(=O)NC2=CC=CC=C2
+"1,3-ditert-butylurea",CC(C)(C)NC(=O)NC(C)(C)C
+thymine,CC1=CNC(=O)NC1=O
+3-Ammonium Propionic Acid,C(CN)C(=O)O.I
+methylphosphonic acid,CP(=O)(O)O
+di-5-(1-methyltetrazole) disulfide,CN1C(=NN=N1)SSC2=NN=NN2C
+4-bromo-benzonitrile,C1=CC(=CC=C1C#N)Br
+D-pentafluorophenylalanine,C(C1=C(C(=C(C(=C1F)F)F)F)F)[C@H](C(=O)O)N
+"3-ethylbenzo[d]isothiazole 1,1-dioxide",CCC1=NS(=O)(=O)C2=CC=CC=C21
+trifluorothymine,C1=C(C(=O)NC(=O)N1)C(F)(F)F
+artemisinin,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C
+Artesunate,C[C@@H]1CC[C@H]2[C@H]([C@@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)OC(=O)CCC(=O)O)C
+Dihydroartemisinin ,C[C@@H]1CC[C@H]2[C@H]([C@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)O)C
+acetic acid,CC(=O)O
+pyridine,C1=CC=NC=C1
+"2,2'-Bipyridine",C1=CC=NC(=C1)C2=CC=CC=N2
+"2,2':6',2''-Terpyridine",C1=CC=NC(=C1)C2=NC(=CC=C2)C3=CC=CC=N3
+Dithizone,C1=CC=C(C=C1)NNC(=S)N=NC2=CC=CC=C2
+Glycine,C(C(=O)O)N
+4-chlorobenzoic acid,C1=CC(=CC=C1C(=O)O)Cl
+2-hydroxyethyl acrylate,C=CC(=O)OCCO
+4-methoxyphenylacetic acid,COC1=CC=C(C=C1)CC(=O)O
+2-methylimidazole,CC1=NC=CN1
+perylenediimide,C1=CC2=C3C(=CC=C4C3=C1C5=C6C4=CC=C7C6=C(C=C5)C(=O)NC7=O)C(=O)NC2=O
+phenylbenzimidazole sulfonic acid,C1=CC=C(C=C1)C2=NC3=C(N2)C=C(C=C3)S(=O)(=O)O
+N-(4-acetylphenyl)maleimide,CC(=O)C1=CC=C(C=C1)N2C(=O)C=CC2=O
+4-fluoroaniline,C1=CC(=CC=C1N)F
+Dithiooxamide,C(=S)(C(=S)N)N
+4-hydroxybenzaldehyde,C1=CC(=CC=C1C=O)O
+l-glutathione,C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
+phenylacetonitrile,C1=CC=C(C=C1)CC#N
+2-naphthylacetonitrile,C1=CC=C2C=C(C=CC2=C1)CC#N
+"4-(N, N-Diphenylamino) benzaldehyde",C1=CC=C(C=C1)N(C2=CC=CC=C2)C3=CC=C(C=C3)C=O
+4-Biphenylcarbaldehyde,C1=CC=C(C=C1)C2=CC=C(C=C2)C=O
+4-Acetylbiphenyl,CC(=O)C1=CC=C(C=C1)C2=CC=CC=C2
+4-Aminobenzenesulfonic acid,C1=CC(=CC=C1N)S(=O)(=O)O
+sulfamide ,NS(=O)(=O)N
+L-aspartate,C([C@@H](C(=O)O)N)C(=O)O
+tri(2-thienyl)benzene,C1=CSC(=C1)C2=CC(=CC(=C2)C3=CC=CS3)C4=CC=CS4
+"2-[N,N-bi(trifluoromethylsulfonyl)amino]pyridine",C1=CC=NC(=C1)N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F
+oteracil potassium,C1(=NC(=O)NC(=O)N1)C(=O)[O-].[K+]
+potassium cinnamate,C1=CC=C(C=C1)C=CC(=O)[O-].[K+]
+D-2-Aminobutanedioic acid,C(C(C(=O)O)N)C(=O)O
+"3,4,5,6-tetrafluorophthalic acid",C1(=C(C(=C(C(=C1F)F)F)F)C(=O)O)C(=O)O
+502 adhesive,CCOC(=O)C(=C)C#N
+"3,5-difluorobenzenesulfonamide",C1=C(C=C(C=C1F)S(=O)(=O)N)F
+"2,6-difluorobenzenesulfonamide",C1=CC(=C(C(=C1)F)S(=O)(=O)N)F
+2-chlorothiazole-4-carboxylic acid,C1=C(N=C(S1)Cl)C(=O)O
+"2,5-thiophenedicarboxylic acid",C1=C(SC(=C1)C(=O)O)C(=O)O
+phenylalanine,C1=CC=C(C=C1)C[C@@H](C(=O)O)N
+phenylphosphonic acid,C1=CC=C(C=C1)P(=O)(O)O
+"furan-2,5-dicarboxylic acid",C1=C(OC(=C1)C(=O)O)C(=O)O
+l-glutathione,C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N
+l-Theanine,CCNC(=O)CC[C@@H](C(=O)O)N
+Malonamide,C(C(=O)N)C(=O)N
+5-(Fmoc-amino) valeric acid,C1=CC=C2C(=C1)C(C3=CC=CC=C32)COC(=O)NCCCCC(=O)O
